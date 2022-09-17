@@ -37,7 +37,9 @@
 [집합의 관점에서 타입스크립트 바라보기 - 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/9954/)  
 
 ## 📖 흥미로운 책
-[유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://m.hanbit.co.kr/store/books/book_view.html?p_code=E2375873090)
+[유지보수하기 어렵게 코딩하는 방법: 평생 개발자로 먹고 살 수 있다](https://m.hanbit.co.kr/store/books/book_view.html?p_code=E2375873090)  
+[CODE](http://www.yes24.com/Product/Goods/16667186)  
+
 
 ## 👍 흥미로운 라이브러리, 툴, 사이트
 [자동으로 Json을 TypeScript로?!](https://quicktype.io/)  
