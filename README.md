@@ -4,7 +4,7 @@
 ## 📰 흥미로운 글
 > 해당 글을 접한 순서로 기록됨(최신 업데이트가 상단)  
 > 오픈채팅방, 구글 검색, 페이스북, 인스타 등 여러가지 경로를 통해 수집함
-
+- [ ] [[OS] Synchronization 동기화란?](https://ooeunz.tistory.com/94)  
 - [ ] [XSS 공격과 쿠키의 HttpOnly](https://velog.io/@alang/XSS-%EA%B3%B5%EA%B2%A9%EA%B3%BC-%EC%BF%A0%ED%82%A4%EC%9D%98-HttpOnly)  
 - [ ] [자바스크립트 개발자가 알고리즘을 C언어로 푸는 이유 | 요즘 IT](https://yozm.wishket.com/magazine/detail/1651/?fbclid=IwAR0aqZ04q8xbnhC7eoxp5Dcmd05b97g7IcUlyEP7ekz06WFdTphs1jN6km4)  
 - [ ] [[React] axios intercepter](https://calisthenics-homedong.tistory.com/m/17)  
