@@ -5,6 +5,7 @@
 > 해당 글을 접한 순서로 기록됨(최신 업데이트가 상단)  
 > 오픈채팅방, 구글 검색, 페이스북, 인스타 등 여러가지 경로를 통해 수집함
 
+[XSS 공격과 쿠키의 HttpOnly](https://velog.io/@alang/XSS-%EA%B3%B5%EA%B2%A9%EA%B3%BC-%EC%BF%A0%ED%82%A4%EC%9D%98-HttpOnly)  
 [자바스크립트 개발자가 알고리즘을 C언어로 푸는 이유 | 요즘 IT](https://yozm.wishket.com/magazine/detail/1651/?fbclid=IwAR0aqZ04q8xbnhC7eoxp5Dcmd05b97g7IcUlyEP7ekz06WFdTphs1jN6km4)  
 [[React] axios intercepter](https://calisthenics-homedong.tistory.com/m/17)  
 [useLocalStorage](https://usehooks.com/useLocalStorage/)  
@@ -48,4 +49,5 @@
 [JavaScript Patterns by lydiahllie - StackBlitz](https://stackblitz.com/@lydiahallie/collections/javascript-patterns)  
 
 ## 📺 흥미로운 영상
+[버그 하나도 못 잡으면 넌 주니어](https://www.youtube.com/watch?v=WVIDfLWvE9o&ab_channel=%ED%8F%AC%ED%94%84TV)  
 [이력서 40번 넣고 35번 탈락한 개발자의 사연](https://www.youtube.com/watch?v=i1HPaGDnocM&ab_channel=eo)  
