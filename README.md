@@ -4,6 +4,24 @@
 ## 📰 흥미로운 글
 > 해당 글을 접한 순서로 기록됨(최신 업데이트가 상단)  
 > 오픈채팅방, 구글 검색, 페이스북, 인스타 등 여러가지 경로를 통해 수집함
+- [ ] [JWT의 개념, 프론트엔드에서 해야 할 일](https://han-um.tistory.com/17)  
+- [ ] [JavaScript - 배열 정렬 방법 (오름차순, 내림차순)](https://codechacha.com/ko/javascript-sorting-arr/)  
+- [ ] [[JS] DOM 엘리먼트 삭제 시, 이벤트리스너도 같이 삭제될까?](https://interacting.tistory.com/148)  
+- [ ] [자바스크립트 배열은 정말 배열이 아닐까?](https://devkly.com/nodejs/javascript-array/)  
+- [ ] [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array/)  
+- [ ] [Data Structures in JavaScript: Arrays, HashMaps, and Lists](https://adrianmejia.com/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/)  
+- [ ] [변경에 유연한 컴포넌트](https://jbee.io/web/components-should-be-flexible/)  
+- [ ] [SSR - Send request with cookie from apollo client with Next.js](https://lightrun.com/answers/apollographql-apollo-client-ssr---send-request-with-cookie-from-apollo-client-with-nextjs)  
+- [ ] [prepare_frontend_interview](https://github.com/junh0328/prepare_frontend_interview)  
+- [ ] [Web에서의 Rendering](https://shlrur.github.io/develog/2019/02/14/rendering-on-the-web/)  
+- [ ] [웹 컴포넌트 스타일링 관리 CSS-in-JS vs CSS-in-CSS](https://www.samsungsds.com/kr/insights/web_component.html)  
+- [ ] [JavaScript Component Patterns to Scale up your Web Application](https://medium.com/@neciudan/javascript-component-patterns-to-scale-up-your-web-application-4903a2d9c735)  
+- [ ] [우리회사는 왜 애자일 전환에 실패했을까? | 요즘 IT](https://yozm.wishket.com/magazine/detail/917/)  
+- [ ] [Optimizing Core Web Vitals on a Next.js app](https://patterns-dev-kr.github.io/case-studies/optimizing-core-web-vitals-on-a-nextjs-app/)  
+
+- [ ] [[TIL] React에서 MVC패턴과 FLUX패턴에 대해서🤔](https://velog.io/@sssssssssy/TIL-React%EC%97%90%EC%84%9C-MVC%ED%8C%A8%ED%84%B4%EA%B3%BC-FLUX%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)  
+- [ ] [✨♻️ JavaScript Visualized: Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)  
+- [ ] [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/#v8-%EC%97%94%EC%A7%84%EC%9D%98-%EC%9E%91%EB%8F%99%EC%9B%90%EB%A6%AC%EB%A5%BC-%EC%82%B4%ED%8E%B4%EB%B3%B4%EC%9E%90)  
 - [ ] [[OS] Synchronization 동기화란?](https://ooeunz.tistory.com/94)  
 - [ ] [XSS 공격과 쿠키의 HttpOnly](https://velog.io/@alang/XSS-%EA%B3%B5%EA%B2%A9%EA%B3%BC-%EC%BF%A0%ED%82%A4%EC%9D%98-HttpOnly)  
 - [ ] [자바스크립트 개발자가 알고리즘을 C언어로 푸는 이유 | 요즘 IT](https://yozm.wishket.com/magazine/detail/1651/?fbclid=IwAR0aqZ04q8xbnhC7eoxp5Dcmd05b97g7IcUlyEP7ekz06WFdTphs1jN6km4)  
@@ -49,5 +67,6 @@
 [JavaScript Patterns by lydiahllie - StackBlitz](https://stackblitz.com/@lydiahallie/collections/javascript-patterns)  
 
 ## 📺 흥미로운 영상
+- [ ] [React Hooks이란 ? React Hooks으로 인해 얻는 이점들](https://www.youtube.com/watch?v=C26vJqelKlA&feature=youtu.be&ab_channel=JohnAhn)  
 - [ ] [버그 하나도 못 잡으면 넌 주니어](https://www.youtube.com/watch?v=WVIDfLWvE9o&ab_channel=%ED%8F%AC%ED%94%84TV)  
 - [ ] [이력서 40번 넣고 35번 탈락한 개발자의 사연](https://www.youtube.com/watch?v=i1HPaGDnocM&ab_channel=eo)  
