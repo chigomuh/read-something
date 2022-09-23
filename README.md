@@ -4,6 +4,7 @@
 ## 📰 흥미로운 글
 > 해당 글을 접한 순서로 기록됨(최신 업데이트가 상단)  
 > 오픈채팅방, 구글 검색, 페이스북, 인스타 등 여러가지 경로를 통해 수집함
+- [ ] [자바스크립트는 왜 프로토타입을 선택했을까](https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42)  
 - [ ] [JWT의 개념, 프론트엔드에서 해야 할 일](https://han-um.tistory.com/17)  
 - [ ] [JavaScript - 배열 정렬 방법 (오름차순, 내림차순)](https://codechacha.com/ko/javascript-sorting-arr/)  
 - [ ] [[JS] DOM 엘리먼트 삭제 시, 이벤트리스너도 같이 삭제될까?](https://interacting.tistory.com/148)  
@@ -67,6 +68,8 @@
 [JavaScript Patterns by lydiahllie - StackBlitz](https://stackblitz.com/@lydiahallie/collections/javascript-patterns)  
 
 ## 📺 흥미로운 영상
+- [ ] [효율적인 테스트 코드 작성법](https://www.youtube.com/watch?v=gs1qM1TF5zA&ab_channel=%ED%8F%AC%ED%94%84TV)  
+- [ ] [토스ㅣSLASH 21 - 실무에서 바로 쓰는 Frontend Clean Code](https://www.youtube.com/watch?v=edWbHp_k_9Y&ab_channel=%ED%86%A0%EC%8A%A4)  
 - [ ] [React Hooks이란 ? React Hooks으로 인해 얻는 이점들](https://www.youtube.com/watch?v=C26vJqelKlA&feature=youtu.be&ab_channel=JohnAhn)  
 - [ ] [버그 하나도 못 잡으면 넌 주니어](https://www.youtube.com/watch?v=WVIDfLWvE9o&ab_channel=%ED%8F%AC%ED%94%84TV)  
 - [ ] [이력서 40번 넣고 35번 탈락한 개발자의 사연](https://www.youtube.com/watch?v=i1HPaGDnocM&ab_channel=eo)  
